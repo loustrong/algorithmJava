@@ -1,4 +1,4 @@
-package com.tom;
+package com.tom.algrithm;
 
 public class SortedByBubble {
     public static int[] sortedByBubble(int[] input){

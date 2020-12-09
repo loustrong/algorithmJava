@@ -1,4 +1,4 @@
-package com.tom;
+package com.tom.algrithm;
 
 public class SortedBySelector {
     public static int[] sortedBySelector(int[] input){
