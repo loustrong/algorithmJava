@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798c3d2e-4566-4139-94b2-0833edbfeb54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/algrithm/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/Decimal2HexConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/FutureTuition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/OneDimensionArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/SimpleIfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/TestCircle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/TestFileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/extends1/DynamicBindingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/extends1/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/io/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/io/file/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/io/file/ReplaceText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/io/file/TestFileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/io/file/WriteDatas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/object/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/object/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/object/StackOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/object/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/timezone.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tom/se/RandomSixArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tom/se/RandomSixArray.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,6 +177,7 @@
       <workItem from="1608029685102" duration="4646000" />
       <workItem from="1608990937412" duration="1338000" />
       <workItem from="1609254613830" duration="9846000" />
+      <workItem from="1609547476290" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="push to github">
       <created>1607527473904</created>
@@ -210,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607527473904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push to github">
+      <created>1609547659234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609547659234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
