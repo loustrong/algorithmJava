@@ -2,10 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798c3d2e-4566-4139-94b2-0833edbfeb54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/blockingQueue/BlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1611155345713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1611155720975" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.tcxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extObj.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1402/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1402/FunInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/ProcessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/RunTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/Testable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1502/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileInputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/ReadObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/WriteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/AttributeViewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileChanelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileVisitorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/PathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/RandomFileChannelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/WatchServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1601/FirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1602/ThirdThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1604/JoinThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Lock/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/condition/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ForkJoinPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1801/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/ClassLoaderProp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/CompileClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/URLClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/CreateJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ExtendedObjectPoolFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ObjectPoolFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/DogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/GunDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/blockingQueue/BlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1402/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1402/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1402/FunInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/MyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/ProcessorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/RunTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/Testable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1502/FileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileInputStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileOutputStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileReaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileWriterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/synch2/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/unsynch/TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tom/athome/synch/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/synch/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tom/athome/unsynch/SleepThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/unsynch/SleepThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,33 +107,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/GunDog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13932">
-              <caret line="516" column="63" selection-start-line="516" selection-start-column="63" selection-end-line="516" selection-end-column="63" />
+            <state relative-caret-position="189">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/DogUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch/Bank.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogInvocationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="540">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,59 +147,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch2/Bank.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="378">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/blockingQueue/BlockingQueue.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#421#427#0" expanded="true" />
-              </folding>
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/unsynch/SleepThreadTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch/SynchBankTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/lang/Runnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/lang/reflect/InvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1863">
-              <caret line="92" column="67" selection-start-line="92" selection-start-column="63" selection-end-line="92" selection-end-column="67" />
+            <state relative-caret-position="351">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -124,6 +222,7 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -134,33 +233,67 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/algorithm/Measurable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/algorithm/NameInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/algorithm/chapter2/BagInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/IfExer1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/TestSwitch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/algorithm/chapter2/ArrayBag.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/TestPrime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/NineNineTable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/Size.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/EnumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/ReflectionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/ManageTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/TimerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/ProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/PairTest1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/unsynch/UnsyncBankTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/unsynch/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/synch/SynchBankTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/unsynch/SleepThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/synch/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/synch2/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/blockingQueue/BlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/ReadObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileChanelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/RandomFileChannelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/ReadFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTransform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileLockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/PathTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileVisitorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/WatchServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/AttributeViewTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1601/FirstThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1602/ThirdThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1604/JoinThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Lock/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DeadLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/condition/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ForkJoinPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1801/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/ClassLoaderProp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/CompileClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/Hello.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/URLClassLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ParameterTest.java" />
+        <option value="$PROJECT_DIR$/obj.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ObjectPoolFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/CreateJFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ExtendedObjectPoolFactory.java" />
+        <option value="$PROJECT_DIR$/extObj.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/FieldTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/GunDog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/DogUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogProxyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -170,11 +303,11 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="813" />
-    <option name="y" value="21" />
-    <option name="width" value="1563" />
-    <option name="height" value="876" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="399" />
+    <option name="y" value="80" />
+    <option name="width" value="1418" />
+    <option name="height" value="846" />
   </component>
   <component name="ProjectId" id="1kfcST5s1WT9mR6YaEZ4esKNHvm" />
   <component name="ProjectLevelVcsManager">
@@ -185,7 +318,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,20 +325,30 @@
               <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithmJava" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: mysql:mysql-connector-java:5.1.47" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609688690757" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612105150545" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -226,13 +368,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BlockingQueue">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.App" />
+  <component name="RunManager" selected="Application.GenericTest">
+    <configuration name="CrazyitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1806.CrazyitArray" />
       <module name="algorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.*" />
+          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1806.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +382,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.blockingQueue.BlockingQueue" />
+    <configuration name="CrazyitObjectFactory2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1806.CrazyitObjectFactory2" />
       <module name="algorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.blockingQueue.*" />
+          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1806.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +395,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SleepThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.unsynch.SleepThreadTest" />
+    <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1806.GenericTest" />
       <module name="algorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.unsynch.*" />
+          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1806.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +408,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchBankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.synch.SynchBankTest" />
+    <configuration name="MyDogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1805.MyDogTest" />
       <module name="algorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.synch.*" />
+          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1805.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +421,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsyncBankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.unsynch.UnsyncBankTest" />
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1805.ProxyTest" />
       <module name="algorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.unsynch.*" />
+          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1805.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,13 +434,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ProxyTest" />
+      <item itemvalue="Application.MyDogTest" />
+      <item itemvalue="Application.CrazyitObjectFactory2" />
+      <item itemvalue="Application.CrazyitArray" />
+      <item itemvalue="Application.GenericTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BlockingQueue" />
-        <item itemvalue="Application.SleepThreadTest" />
-        <item itemvalue="Application.SynchBankTest" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.UnsyncBankTest" />
+        <item itemvalue="Application.GenericTest" />
+        <item itemvalue="Application.CrazyitArray" />
+        <item itemvalue="Application.CrazyitObjectFactory2" />
+        <item itemvalue="Application.MyDogTest" />
+        <item itemvalue="Application.ProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +467,17 @@
       <workItem from="1608127763789" duration="155000" />
       <workItem from="1609482736131" duration="14784000" />
       <workItem from="1609592038843" duration="306000" />
-      <workItem from="1609680762860" duration="4528000" />
+      <workItem from="1609680762860" duration="4610000" />
+      <workItem from="1610119396189" duration="15000" />
+      <workItem from="1611142679408" duration="11122000" />
+      <workItem from="1611241593307" duration="1671000" />
+      <workItem from="1611327516019" duration="595000" />
+      <workItem from="1611389929085" duration="6843000" />
+      <workItem from="1611406484564" duration="8678000" />
+      <workItem from="1611933024111" duration="4335000" />
+      <workItem from="1611996522016" duration="8382000" />
+      <workItem from="1612052402954" duration="10313000" />
+      <workItem from="1612105014059" duration="136000" />
     </task>
     <task id="LOCAL-00001" summary="java se">
       <created>1607266791773</created>
@@ -341,16 +500,24 @@
       <option name="project" value="LOCAL" />
       <updated>1609513901658</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java se">
+      <created>1609690288769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609690288770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37260000" />
+    <option name="totallyTimeSpent" value="89432000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="399" y="80" width="1418" height="846" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39484978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34695393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,9 +525,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38324022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5072626" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29781023" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5065693" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -407,285 +574,468 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/algorithm.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/algorithm/Measurable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/RandomFileChannelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/algorithm/NameInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/algorithm/chapter2/ArrayBag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="299">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
           <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/algorithm/chapter2/BagInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/IfExer1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/ReadFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/TestSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        <state relative-caret-position="351">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/TestPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTransform.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="567">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/thirtyDays/day1/NineNineTable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/PathTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/Size.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="12" column="67" lean-forward="true" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/ReflectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/ManageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileVisitorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
-            <element signature="e#1114#1115#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/TimerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="378">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/lang/reflect/Proxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/WatchServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1282">
-          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/corejava/corejava7/v1/v1ch2/ImageViewer/ImageViewer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="567">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/ProxyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/AttributeViewTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="756">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/PairTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1601/FirstThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="567">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1602/ThirdThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="27" />
           <folding>
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#375#384#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/unsynch/Bank.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1604/JoinThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="351">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="47" column="1" selection-end-line="48" />
+          <folding>
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Lock/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+          <folding>
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/condition/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/corejava/corejava10/corejava/v1ch02/Welcome/Welcome.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/corejava/corejava10/corejava/v1ch10/draw/DrawTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/unsynch/UnsyncBankTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3753">
-          <caret line="230" column="9" selection-start-line="230" selection-start-column="9" selection-end-line="230" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/corejava/corejava9/v1ch02/Welcome/Welcome.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13932">
-          <caret line="516" column="63" selection-start-line="516" selection-start-column="63" selection-end-line="516" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch/Bank.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ForkJoinPoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/unsynch/SleepThreadTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1801/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="918">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch/SynchBankTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/ClassLoaderProp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="92" column="67" selection-start-line="92" selection-start-column="63" selection-end-line="92" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch2/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/blockingQueue/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#421#427#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3294">
+          <caret line="179" column="46" selection-start-line="179" selection-start-column="31" selection-end-line="179" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/CompileClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="82" column="18" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/URLClassLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ParameterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ObjectPoolFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/CreateJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ExtendedObjectPoolFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2169#2170#0" expanded="true" />
+            <element signature="e#2201#2202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obj.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extObj.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/FieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Users/Zulu/zulu-8/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4021">
+          <caret line="676" column="23" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/GunDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/DogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
