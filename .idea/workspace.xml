@@ -1,83 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="1e9bcb71-a1b5-4caf-b826-9c2b0dccc014" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="UML Class" />
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/User/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="D:\User\apache-maven-3.6.1\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1mdgMYhSRswe2FQoxQpZGHjJJ6M" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1nrrvGSxNg0SB1AD9orCDlawhd9" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\algorithmjava\src\main\java\com\tom\se\crazyit\chapter06\chapter64" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SparseArrayToArray">
+  <component name="RunManager">
     <configuration name="CompileConstantTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter18.chapter1801.CompileConstantTest" />
       <module name="algorithm-java" />
@@ -91,167 +25,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter10.chapter102.NullTest" />
-      <module name="algorithm-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter10.chapter102.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter15.chapter1503.PrintStreamTest" />
-      <module name="algorithm-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter15.chapter1503.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SparseArrayToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.algrithm.ArrayAl.SparseArrayToArray" />
-      <module name="algorithm-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tom.algrithm.ArrayAl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringNodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter15.chapter1503.StringNodeTest" />
-      <module name="algorithm-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter15.chapter1503.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SparseArrayToArray" />
         <item itemvalue="Application.CompileConstantTest" />
-        <item itemvalue="Application.StringNodeTest" />
-        <item itemvalue="Application.PrintStreamTest" />
-        <item itemvalue="Application.NullTest" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="1e9bcb71-a1b5-4caf-b826-9c2b0dccc014" name="Default Changelist" comment="" />
-      <created>1609828834129</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1609828834129</updated>
-      <workItem from="1609828837485" duration="841000" />
-      <workItem from="1610411999134" duration="1404000" />
-      <workItem from="1610438624595" duration="12011000" />
-      <workItem from="1610522092238" duration="16371000" />
-      <workItem from="1610597223491" duration="1342000" />
-      <workItem from="1610601526850" duration="715000" />
-      <workItem from="1610602273243" duration="15581000" />
-      <workItem from="1610678756357" duration="34525000" />
-      <workItem from="1610888755214" duration="10302000" />
-      <workItem from="1610949581129" duration="2451000" />
-      <workItem from="1610966909635" duration="8638000" />
-      <workItem from="1611047837330" duration="3490000" />
-      <workItem from="1611058574003" duration="9530000" />
-      <workItem from="1611105484144" duration="2699000" />
-      <workItem from="1611221172811" duration="1237000" />
-      <workItem from="1611228685444" duration="594000" />
-      <workItem from="1611232964895" duration="1240000" />
-      <workItem from="1611303318572" duration="974000" />
-      <workItem from="1611306282564" duration="101000" />
-      <workItem from="1611362780481" duration="878000" />
-      <workItem from="1611452724792" duration="23000" />
-      <workItem from="1611453955536" duration="2396000" />
-      <workItem from="1611589509898" duration="49000" />
-      <workItem from="1612146545342" duration="66000" />
-      <workItem from="1612150483597" duration="2184000" />
-      <workItem from="1612157349817" duration="237000" />
-    </task>
-    <task id="LOCAL-00001" summary="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class">
-      <created>1609829079343</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1609829079343</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class">
-      <created>1610950734455</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1610950734455</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class">
-      <created>1612157474182</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1612157474182</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/FinalErrorTest.java</url>
-          <line>22</line>
-          <properties class="com.tom.se.crazyit.chapter06.chapter64.FinalErrorTest" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/CacheImmutableTest.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
