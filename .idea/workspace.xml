@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9bcb71-a1b5-4caf-b826-9c2b0dccc014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/props.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/algrithm/ArrayAl/SparseArrayToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter610/GcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter610/StatusTransfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter71/ScannerFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter71/ScannerKeyboardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter71/SystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter72/CloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter72/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter73/StringBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter73/ThreadLocalRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter74/CalendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter75/FindGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter82/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter82/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter83/EnumSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter83/PredicateTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter83/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter84/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter86/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter86/MapTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter86/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter88/EnumerationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter88/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter88/UnmodifiableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter91/AnnoymousDiamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter91/DiamondTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter92/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter93/MyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/AutoCloseTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/DivTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/NullTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/OverrideThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter15/chapter1503/PrintStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter15/chapter1503/PushbackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter15/chapter1503/StringNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter18/chapter1801/CompileConstantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e9bcb71-a1b5-4caf-b826-9c2b0dccc014" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,6 +188,7 @@
       <workItem from="1611589509898" duration="49000" />
       <workItem from="1612146545342" duration="66000" />
       <workItem from="1612150483597" duration="2184000" />
+      <workItem from="1612157349817" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class">
       <created>1609829079343</created>
@@ -244,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610950734455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class">
+      <created>1612157474182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612157474182</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
