@@ -2,113 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e9bcb71-a1b5-4caf-b826-9c2b0dccc014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/designPattern/_01SingleResponsibilty/Hello.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/designPattern/_01SingleResponsibilty/singleResponsibilty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter03/ComparableOperatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter03/MathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter03/RandomStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter51/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter51/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter51/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter51/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter51/ReturnThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter51/ThisInConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter52/Overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter52/PrimitiveTransferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter52/Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter52/ReferenceTransferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter52/Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter53/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter54/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter54/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter54/StaticImportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter55/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter55/ConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter56/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter56/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter56/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter56/HideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter56/Ostrich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter56/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter56/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter57/ConversionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter57/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter57/SubInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter58/CompositeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter58/InheritTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter58/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter59/InstanceInitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter59/PersonInialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter59/StaticInitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter05/chapter59/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter61/AutoBoxingUnboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter61/Primitive2String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter61/UnsignedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter62/EqualTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter62/PersonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter62/StringCompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter62/ToStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter63/NullAccessStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter63/SingleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/CacheImmutableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/FinalErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/FinalMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/ImmutableStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/IntegerCacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/PersonImutable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter64/PrivateFinalMehodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter65/CarSpeedMeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter65/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter65/Sharp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter65/SpeedMeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter65/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/AddCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/CommandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/InterfaceExtensionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/OutputFieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/PrinterCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter66/ProcessArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/ATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/AnonymousTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/CreateInnerInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/CreateStaticInnerInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/DiscernVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/InnerStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter67/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter68/CommandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter68/CommandTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter68/LamdQs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter68/LamdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter68/MethodRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter69/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter69/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter69/GenderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter69/abstract1/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter69/best/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter69/better/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter69/better/GenderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/ArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/BreakTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/BreakTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/ContinueTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/ImplArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/ReferenceArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/SwitchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter4/TwoDimensionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/goodCode/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/goodCode/staticInnerClass/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/props.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/algrithm/ArrayAl/SparseArrayToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter610/GcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter06/chapter610/StatusTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter71/ScannerFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter71/ScannerKeyboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter71/SystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter72/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter72/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter73/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter73/ThreadLocalRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter74/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter07/chapter75/FindGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter82/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter82/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter83/EnumSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter83/PredicateTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter83/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter84/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter86/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter86/MapTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter86/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter88/EnumerationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter88/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter08/chapter88/UnmodifiableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter91/AnnoymousDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter91/DiamondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter92/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter09/chapter93/MyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/AutoCloseTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/DivTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/NullTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter10/chapter102/OverrideThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter15/chapter1503/PrintStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter15/chapter1503/PushbackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter15/chapter1503/StringNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/chapter18/chapter1801/CompileConstantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tom/se/io/file/ReadData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tom/se/io/file/ReadData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tom/SortedBySelectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tom/SortedBySelectTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,6 +76,11 @@
         <option name="mavenHome" value="D:/User/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="D:\User\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -180,13 +118,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Operation">
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter06.chapter69.EnumTest" />
+  <component name="RunManager" selected="Application.SparseArrayToArray">
+    <configuration name="CompileConstantTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter18.chapter1801.CompileConstantTest" />
       <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter06.chapter69.*" />
+          <option name="PATTERN" value="com.tom.se.crazyit.chapter18.chapter1801.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenderTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter06.chapter69.better.GenderTest" />
+    <configuration name="NullTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter10.chapter102.NullTest" />
       <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter06.chapter69.better.*" />
+          <option name="PATTERN" value="com.tom.se.crazyit.chapter10.chapter102.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter06.chapter69.GenderTest" />
+    <configuration name="PrintStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter15.chapter1503.PrintStreamTest" />
       <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter06.chapter69.*" />
+          <option name="PATTERN" value="com.tom.se.crazyit.chapter15.chapter1503.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter06.chapter68.MethodRef" />
+    <configuration name="SparseArrayToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.algrithm.ArrayAl.SparseArrayToArray" />
       <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter06.chapter68.*" />
+          <option name="PATTERN" value="com.tom.algrithm.ArrayAl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter06.chapter69.abstract1.Operation" />
+    <configuration name="StringNodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.chapter15.chapter1503.StringNodeTest" />
       <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.se.crazyit.chapter06.chapter69.abstract1.*" />
+          <option name="PATTERN" value="com.tom.se.crazyit.chapter15.chapter1503.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operation" />
-        <item itemvalue="Application.GenderTest (1)" />
-        <item itemvalue="Application.GenderTest" />
-        <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.MethodRef" />
+        <item itemvalue="Application.SparseArrayToArray" />
+        <item itemvalue="Application.CompileConstantTest" />
+        <item itemvalue="Application.StringNodeTest" />
+        <item itemvalue="Application.PrintStreamTest" />
+        <item itemvalue="Application.NullTest" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +213,22 @@
       <workItem from="1610602273243" duration="15581000" />
       <workItem from="1610678756357" duration="34525000" />
       <workItem from="1610888755214" duration="10302000" />
-      <workItem from="1610949581129" duration="1102000" />
+      <workItem from="1610949581129" duration="2451000" />
+      <workItem from="1610966909635" duration="8638000" />
+      <workItem from="1611047837330" duration="3490000" />
+      <workItem from="1611058574003" duration="9530000" />
+      <workItem from="1611105484144" duration="2699000" />
+      <workItem from="1611221172811" duration="1237000" />
+      <workItem from="1611228685444" duration="594000" />
+      <workItem from="1611232964895" duration="1240000" />
+      <workItem from="1611303318572" duration="974000" />
+      <workItem from="1611306282564" duration="101000" />
+      <workItem from="1611362780481" duration="878000" />
+      <workItem from="1611452724792" duration="23000" />
+      <workItem from="1611453955536" duration="2396000" />
+      <workItem from="1611589509898" duration="49000" />
+      <workItem from="1612146545342" duration="66000" />
+      <workItem from="1612150483597" duration="2184000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class">
       <created>1609829079343</created>
@@ -284,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609829079343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge branch 'main' into comp&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;target/classes/META-INF/algorithm-java.kotlin_module&#10;#&#9;target/classes/com/tom/SortedBySelector.class&#10;#&#9;target/test-classes/com/tom/SortedBySelectTest.class">
+      <created>1610950734455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610950734455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
