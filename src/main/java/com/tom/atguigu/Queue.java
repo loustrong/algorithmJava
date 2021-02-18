@@ -33,8 +33,8 @@ public class Queue {
         this.size = 0;
         this.head = -1;
         this.tail = -1;
-        this.maxIndex = MAX_CAPACITY - 1;
-        this.queue = new Object[MAX_CAPACITY];
+        this.maxIndex = capacity - 1;
+        this.queue = new Object[capacity];
     }
     public int size(){
         return this.size;

@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85372cf2-3bb3-4c6c-9e59-d69e541f1b46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/algrithm/hanshunping/day01/SparseArrayToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/algrithm/hanshunping/day01/ok/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/algrithm/hanshunping/day01/tom/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tom/algrithm/ArrayAl/SparseArrayToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/Queue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +107,7 @@
       <updated>1612159279615</updated>
       <workItem from="1612159281075" duration="13209000" />
       <workItem from="1612263845984" duration="978000" />
-      <workItem from="1613649559275" duration="762000" />
+      <workItem from="1613649559275" duration="877000" />
     </task>
     <servers />
   </component>
