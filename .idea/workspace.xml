@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="798c3d2e-4566-4139-94b2-0833edbfeb54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="85372cf2-3bb3-4c6c-9e59-d69e541f1b46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/TestPlusPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/DefaultAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/MultiVars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/ReturnThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/TestApple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/test/TestModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/Queue.java" afterDir="false" />
+>>>>>>> 433414fc08612faff82f787bc8843a2dbab2afed
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +32,7 @@
       <executable />
     </execution>
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
@@ -128,12 +142,11 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 433414fc08612faff82f787bc8843a2dbab2afed
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -141,79 +154,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/ReadObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileChanelTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/RandomFileChannelTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/ReadFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTransform.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileLockTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/PathTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileVisitorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/WatchServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/AttributeViewTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1601/FirstThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1602/ThirdThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1604/JoinThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Account.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Lock/Account.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DeadLock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/condition/Account.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ThreadPoolTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ForkJoinPoolTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1801/A.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/ClassLoaderProp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/CompileClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/Hello.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/URLClassLoaderTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ClassTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ParameterTest.java" />
-        <option value="$PROJECT_DIR$/obj.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ObjectPoolFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/CreateJFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ExtendedObjectPoolFactory.java" />
-        <option value="$PROJECT_DIR$/extObj.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/FieldTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/ProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/Dog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/GunDog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/DogUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyProxyFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogProxyFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="mavenHome" value="D:/User/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\User\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="399" />
     <option name="y" value="80" />
@@ -283,15 +235,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613830741833" />
+=======
+  <component name="ProjectId" id="1nrrvGSxNg0SB1AD9orCDlawhd9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/tom/algrithm" />
+>>>>>>> 433414fc08612faff82f787bc8843a2dbab2afed
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project\algorithmJava\src\main\corejava" />
-      <recent name="D:\project\algorithmJava\src\main\java\com\tom\corejava" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -305,13 +258,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericTest">
-    <configuration name="CrazyitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1806.CrazyitArray" />
-      <module name="algorithmJava" />
+  <component name="RunManager" selected="Application.TestApple">
+    <configuration name="MultiVars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.review01.MultiVars" />
+      <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1806.*" />
+          <option name="PATTERN" value="com.tom.se.crazyit.review01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CrazyitObjectFactory2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1806.CrazyitObjectFactory2" />
-      <module name="algorithmJava" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.atguigu.Queue" />
+      <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1806.*" />
+          <option name="PATTERN" value="com.tom.atguigu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1806.GenericTest" />
-      <module name="algorithmJava" />
+    <configuration name="ReturnThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.review01.ReturnThis" />
+      <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1806.*" />
+          <option name="PATTERN" value="com.tom.se.crazyit.review01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1805.MyDogTest" />
-      <module name="algorithmJava" />
+    <configuration name="TestApple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.se.crazyit.review01.TestApple" />
+      <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1805.*" />
+          <option name="PATTERN" value="com.tom.se.crazyit.review01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tom.athome.crazyit.chapter18.chapter1805.ProxyTest" />
-      <module name="algorithmJava" />
+    <configuration name="TestPlusPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.atguigu.TestPlusPlus" />
+      <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tom.athome.crazyit.chapter18.chapter1805.*" />
+          <option name="PATTERN" value="com.tom.atguigu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,20 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.ProxyTest" />
-      <item itemvalue="Application.MyDogTest" />
-      <item itemvalue="Application.CrazyitObjectFactory2" />
-      <item itemvalue="Application.CrazyitArray" />
-      <item itemvalue="Application.GenericTest" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericTest" />
-        <item itemvalue="Application.CrazyitArray" />
-        <item itemvalue="Application.CrazyitObjectFactory2" />
-        <item itemvalue="Application.MyDogTest" />
-        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="Application.TestApple" />
+        <item itemvalue="Application.MultiVars" />
+        <item itemvalue="Application.ReturnThis" />
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.TestPlusPlus" />
       </list>
     </recent_temporary>
   </component>
@@ -393,10 +339,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="798c3d2e-4566-4139-94b2-0833edbfeb54" name="Default Changelist" comment="" />
-      <created>1606095086053</created>
+      <changelist id="85372cf2-3bb3-4c6c-9e59-d69e541f1b46" name="Default Changelist" comment="" />
+      <created>1612159279615</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1606095086053</updated>
       <workItem from="1606095089182" duration="603000" />
       <workItem from="1607249484405" duration="10042000" />
@@ -493,31 +440,33 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
+=======
+      <updated>1612159279615</updated>
+      <workItem from="1612159281075" duration="13209000" />
+      <workItem from="1612263845984" duration="978000" />
+      <workItem from="1613649559275" duration="2442000" />
+      <workItem from="1613718999074" duration="17072000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> 433414fc08612faff82f787bc8843a2dbab2afed
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="java se" />
-    <option name="LAST_COMMIT_MESSAGE" value="java se" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch/Bank.java</url>
-          <line>71</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tom/athome/synch/Bank.java</url>
-          <line>75</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/RandomFileChannelTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -980,5 +929,9 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="false" />
+>>>>>>> 433414fc08612faff82f787bc8843a2dbab2afed
   </component>
 </project>
