@@ -1,2 +1,0 @@
-#Env Variable  =>  TZ=Asia/Taipei
-#這是apline os設定的方式
