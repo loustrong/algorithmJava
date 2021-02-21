@@ -2,92 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798c3d2e-4566-4139-94b2-0833edbfeb54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1611155345713" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1611155720975" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.tcxt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extObj.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-connector-java-5.1.47.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1402/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1402/FunInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/ProcessorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/RunTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter14/chapter1403/Testable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1502/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileInputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1503/FileWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/ReadObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1508/WriteObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/AttributeViewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/CharsetTransform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileChanelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/FileVisitorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/PathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/RandomFileChannelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter15/chapter1509/WatchServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1601/FirstThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1602/ThirdThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1604/JoinThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/DrawThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/Lock/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1605/condition/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ForkJoinPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter16/chapter1608/ThreadPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1801/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/ClassLoaderProp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/CompileClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1802/URLClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1803/ParameterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ArrayTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/CreateJFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ExtendedObjectPoolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/FieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1804/ObjectPoolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/DogUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/GunDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/CrazyitObjectFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/blockingQueue/BlockingQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1402/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1402/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1402/FunInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/ProcessorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/RunTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter14/chapter1403/Testable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1502/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileInputStreamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileOutputStreamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileReaderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/crazyit/chapter15/chapter1503/FileWriterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/synch2/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tom/athome/unsynch/TestThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -188,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="297">
               <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -199,11 +114,7 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -327,12 +238,38 @@
             </path>
             <path>
               <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="algorithmJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:5.1.47" type="70bed36:NamedLibraryElementNode" />
+              <item name="algorithmJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tom" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,7 +282,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612105150545" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613830741833" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -477,7 +414,9 @@
       <workItem from="1611933024111" duration="4335000" />
       <workItem from="1611996522016" duration="8382000" />
       <workItem from="1612052402954" duration="10313000" />
-      <workItem from="1612105014059" duration="136000" />
+      <workItem from="1612105014059" duration="986000" />
+      <workItem from="1613822998953" duration="1578000" />
+      <workItem from="1613878163056" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="java se">
       <created>1607266791773</created>
@@ -507,17 +446,23 @@
       <option name="project" value="LOCAL" />
       <updated>1609690288770</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java se">
+      <created>1612105189352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612105189352</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89432000" />
+    <option name="totallyTimeSpent" value="92139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="399" y="80" width="1418" height="846" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34695393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3603269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1015,16 +960,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1806/GenericTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="297">
           <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1032,12 +970,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tom/athome/crazyit/chapter18/chapter1805/MyDogTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="351">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
