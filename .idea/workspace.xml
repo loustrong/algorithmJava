@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85372cf2-3bb3-4c6c-9e59-d69e541f1b46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/TestPlusPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/DefaultAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/MultiVars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/ReturnThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/TestApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/test/TestModifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tom/atguigu/Queue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +149,8 @@
       <workItem from="1612159281075" duration="13209000" />
       <workItem from="1612263845984" duration="978000" />
       <workItem from="1613649559275" duration="2442000" />
-      <workItem from="1613718999074" duration="17072000" />
+      <workItem from="1613718999074" duration="17386000" />
+      <workItem from="1613823440219" duration="1806000" />
     </task>
     <servers />
   </component>
