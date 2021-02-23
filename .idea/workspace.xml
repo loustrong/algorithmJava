@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9437ddb4-e4f5-4cf7-82e4-ecd409412a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/HashSetTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/HelloI18N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/collection/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/collection/set/CustomSortFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/collection/set/EnumSetSeason.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/collection/set/EnumSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/collection/set/HashSetTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/collection/set/LinkedHashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/collection/set/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/enumuberation/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/enumuberation/GenderDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/enumuberation/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/enumuberation/SeasonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/enumuberation/SeasonEnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/innerClass/CreateInnerInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/innerClass/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/regression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/system/CloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/system/ScannerKeyBoardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/se/crazyit/review01/test/FITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mess_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mess_zh_CN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mess_zh_TW.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,7 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1613879974555</updated>
       <workItem from="1613879979978" duration="8834000" />
-      <workItem from="1613923593418" duration="19455000" />
+      <workItem from="1613923593418" duration="20302000" />
+      <workItem from="1614041750390" duration="1838000" />
     </task>
     <servers />
   </component>
