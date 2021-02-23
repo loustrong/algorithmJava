@@ -13,10 +13,11 @@ public class AutoCloseTest {
         try(
                 //聲明,初始化兩個可關閉的資源
                 // try語句會自動關閉這兩個資源
-                BufferedReader br = new BufferedReader(new FileReader("AutoCloseTest"));
-                PrintStream ps = new PrintStream()
+                BufferedReader br = new BufferedReader(new FileReader("D:\\project\\algorithmJava\\com\\tom\\se\\crazyit\\review01\\exception\\AutoCloseTest.java"));
+                PrintStream ps = new PrintStream(new FileOutputStream("aa.txt"))
                 ){
-
+            System.out.println(br.readLine());
+            ps.println("庄生晓梦迷蝴蝶");
         }
     }
 }
