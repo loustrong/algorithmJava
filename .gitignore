@@ -21,7 +21,7 @@ dependency-reduced-pom.xml
 .settings/ 
 
 # IntelliJ IDEA Files 
-
+.idea/workspace.xml
 *.iml
 *.ipr 
 *.iws 
