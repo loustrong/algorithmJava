@@ -1,6 +1,7 @@
 package com.tom.se.crazyit.review01.db;
 
 import javax.swing.*;
+import java.awt.*;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -21,19 +22,80 @@ public class Execute_DML_DDL {
     // UI组件
    private JFrame jf = new JFrame("登录");
    private JTextField userField = new JTextField(20);
+   private JTextField passField = new JTextField(20);
    private JButton loginButton = new JButton("登录");
 
-   public void initParam(String paramFile) throws IOException {
+   public void initParam(String paramFile) throws IOException, ClassNotFoundException {
        Properties props = new Properties();
        props.load(new FileInputStream(paramFile));
        driver = props.getProperty("driver");
        url = props.getProperty("url");
        user = props.getProperty("user");
        pass = props.getProperty("pass");
+       Class.forName(driver);
+       // call procedure
+       try(
+               Connection conn = DriverManager.getConnection(url, user,pass);
+               ){
+           CallableStatement cstmt = conn.prepareCall("{call add_pro(?,?,?)}");
+           cstmt.setInt(1,4);
+           cstmt.setInt(2,5);
+           cstmt.registerOutParameter(3, Types.INTEGER);
+           cstmt.execute();
+           System.out.println("執行的結果是:" + cstmt.getInt(3));
+       } catch (SQLException e) {
+           e.printStackTrace();
+       }
+       loginButton.addActionListener(e ->{
+           // 登陸成功則顯示"登陸成功"
+           if(validate(userField.getText(),passField.getText())){
+               JOptionPane.showMessageDialog(jf,"登陸成功!");
+           }
+           // 否則顯示失敗
+           else{
+               JOptionPane.showMessageDialog(jf, "鄧麗失敗!");
+           }
+       });
+       jf.add(userField, BorderLayout.NORTH);
+       jf.add(passField);
+       jf.add(loginButton, BorderLayout.SOUTH);
+       jf.pack();
+       jf.setVisible(true);
+   }
+   private boolean validate(String userName,String userPass){
 
+//        String sql = "select * from jdbc_test " +
+//                "where jdbc_name='" + userName +
+//                "' and jdbc_desc='" + userPass + "'";
+//       System.out.println(sql);
+
+       // 防止注入,使用如下語法
+       try(
+//               Connection conn = DriverManager.getConnection(url, user, pass);
+//               Statement stmt = conn.createStatement();
+//               ResultSet rs = stmt.executeQuery(sql)
+            Connection conn = DriverManager.getConnection(url,user,pass);
+            PreparedStatement pstmt = conn.prepareStatement(
+                    "select * from jdbc_test where jdbc_name =? and jdbc_desc=?")
+       ){
+           pstmt.setString(1, userName);
+           pstmt.setString(2, userPass);
+           try(
+                   ResultSet rs = pstmt.executeQuery();
+                   ){
+               if(rs.next()){
+               return true;
+           }
+           }
+//           if(rs.next()){
+//               return true;
+//           }
+       } catch (SQLException e) {
+           e.printStackTrace();
+       }
+        return false;
    }
    public void executeSql(String sql) throws ClassNotFoundException, SQLException {
-       Class.forName(driver);
        try (
                Connection conn = DriverManager.getConnection(url, user, pass);
                Statement stmt = conn.createStatement()
