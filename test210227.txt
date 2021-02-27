@@ -1,0 +1,2 @@
+普通字符串
+com.tom.se.crazyit.chapter15.chapter1503.PrintStreamTest@6d6f6e28
